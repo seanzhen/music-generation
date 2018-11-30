@@ -5,4 +5,4 @@
 2. style-music-generation : 基于双向LSTM的音乐风格形式的生成
 
 ## 接下来
-我要重构这个两个的代码
+我要重构这两个的代码 base on xiaobin band
