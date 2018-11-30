@@ -20,7 +20,7 @@ python package
 
 请运行music.ipynb文件，这是我测试运行成功的文件
 
-## Files
+## 文件意义
 `\run` : 保存了运行结果.
 `\data` : 最初的对音乐文件的存储.
 `predict` : 结果文件，origin是测试音频, original_classical和original_jazz都是生成的不同风格的音乐.
