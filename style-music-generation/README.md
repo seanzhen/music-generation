@@ -1,4 +1,4 @@
-# StyleNet
+# Style-music-generation
 
 A cute multi-layer LSTM network that can perform like a human 🎶 It learns the dynamics of music! The architecture was specifically designed to handle music of different genres.
 
