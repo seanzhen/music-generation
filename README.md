@@ -1,4 +1,4 @@
-# music-generation-- MDS6232 Final Project
+# MDS6232 Final Project - music-generation
 
 ## 包括文件
 1. music-generation-rnn: 基本的基于RNN音乐生成
